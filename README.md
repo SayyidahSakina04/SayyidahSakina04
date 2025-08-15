@@ -1,17 +1,18 @@
-# Hi 👋, I'm Sakina
+<div align="center">
+
+# Hi 👋, I'm Sakina  
 **Software Engineer | Web Scraper | Retool Developer**
 
 ---
 
-### 🌐 Social presence:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sayyidah-sakina-tul-hussain-rizavi/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/SayyidahSakina04)
+### 🌐 Social Presence  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sayyidah-sakina-tul-hussain-rizavi/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/SayyidahSakina04)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/saKinaZ/)
-
 
 ---
 
-### 💻 Tech Stack:
+### 💻 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![Java](https://img.shields.io/badge/Java-red?logo=java)
 ![C%23](https://img.shields.io/badge/C%23-239120?logo=c-sharp)
@@ -20,10 +21,11 @@
 
 ---
 
-### 🚀 Pinned Projects:
-- [Rental Car Management System](https://github.com/SayyidahSakina04/RentalCarManagementSystem)
-- [Job Portal](https://github.com/SayyidahSakina04/JobPortal)
+### 🚀 Pinned Projects  
+[Rental Car Management System](https://github.com/SayyidahSakina04/RentalCarManagementSystem) • [Job Portal](https://github.com/SayyidahSakina04/JobPortal)  
 
 ---
 
-⭐️ *Feel free to check out my repositories and connect!*
+⭐ *Feel free to check out my repositories and connect!*
+
+</div>
