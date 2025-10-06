@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Sakina  
-**Software Engineer | Web Scraper | Retool Developer**
+**Software Engineer | Web Scraper | Web Developer**
 
 ---
 
