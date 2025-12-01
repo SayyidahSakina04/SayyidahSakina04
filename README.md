@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Sakina  
+# Hi 👋 I'm Sakina  
 **Software Engineer | Web Scraper | Web Developer**
 
 ---
